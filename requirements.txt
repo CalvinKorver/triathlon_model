@@ -1,0 +1,7 @@
+fastai>=2.7.0
+gradio>=3.0.0
+streamlit>=1.25.0
+pillow>=9.0.0
+torch>=1.12.0
+torchvision>=0.13.0
+schedule>=1.2.0
